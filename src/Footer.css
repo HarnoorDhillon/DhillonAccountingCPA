@@ -1,0 +1,21 @@
+.footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    color: #6c757d;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-linkedin {
+    margin-left: 0.5rem; /* adjust as needed */
+    color: #0077b5; /* LinkedIn blue color */
+    transition: transform 0.3s ease; /* for hover animation */
+    font-size: 20rem;
+  }
+  
+  .footer-linkedin:hover {
+    transform: scale(1.2); /* adjust as needed */
+  }
+  

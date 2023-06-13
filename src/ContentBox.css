@@ -1,0 +1,47 @@
+.content-box {
+    margin-left: 2rem; /* move box slightly right */
+    background-color: rgba(255, 255, 255, 0.5); 
+    border-radius: 10px;
+    padding: 5rem;
+    max-width: 400px;
+    color: #333;
+}
+
+.content-heading {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(9, 60, 119);
+    font-size: 2.5rem;
+    margin-top: .005rem;
+    margin-bottom: 2rem;
+}
+  
+.content-text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+.offer {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    color: #085f1b; /* adjust color as needed */
+    margin-bottom: 1rem;
+}
+
+.start-button {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    color: white; /* text color */
+    background-color: #28a745; /* Bootstrap success green color */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px; /* adjust padding as needed */
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    z-index: 9999; /* add a high z-index */
+}
+
+.start-button:hover {
+    background-color: #218838; /* darker green for hover effect */
+}
