@@ -9,14 +9,14 @@
 }
 
 .about-left {
-    flex-basis: 23rem;
+    flex-basis: 30%;
 }
 
 .about-left h1 {
     color: #333; /* Dark Gray */
     font-size: 3rem;
     font-family: 'Open Sans', sans-serif;
-    margin-top: 2rem;
+    margin-top: 10%;
 }
 
 .about-divider {
@@ -46,6 +46,8 @@
     color: #0eb435;
   }
   .about-img {
+    border-radius: 10%;
+    max-width: 100%;
     width: 100%;
     height: auto;
     margin-top: -1.5rem;

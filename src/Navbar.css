@@ -84,3 +84,41 @@ li a:hover {
     color: rgb(9, 60, 119);
     text-decoration: underline 2px;
 }
+/* Mobile devices responsiveness */
+@media (max-width: 768px) { /* You can adjust this value based on your requirements */
+
+    nav {
+        padding: 1rem 1rem; /* Reduced padding for mobile */
+    }
+
+    .navbar-content {
+        flex-direction: column; /* Stack logo and navigation vertically */
+        align-items: flex-start; /* Align items to the start */
+    }
+
+    .logo {
+        width: 150px;
+        height: 50px; 
+        margin-bottom: 1rem; /* Gap between logo and navigation */
+    }
+
+    ul {
+        gap: 1rem; /* Reduced gap for mobile */
+        flex-direction: column; /* Links listed vertically */
+    }
+
+    li a {
+        font-size: 18px; /* Smaller font size */
+    }
+
+    .top-boxes {
+        margin-top: 1rem; /* Gap between navigation and top-boxes */
+        gap: 1rem; /* Reduced gap for mobile */
+    }
+
+    .top-box {
+        width: 150px; /* Reduced width */
+        height: 40px; /* Reduced height */
+        font-size: 14px; /* Smaller font size */
+    }
+}
