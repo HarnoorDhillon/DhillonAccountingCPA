@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DhillonAccountingCPA/static/css/main.2cee8b6e.css",
-    "main.js": "/DhillonAccountingCPA/static/js/main.39e63878.js",
+    "main.css": "/DhillonAccountingCPA/static/css/main.61d9eeb1.css",
+    "main.js": "/DhillonAccountingCPA/static/js/main.e0fb1dc3.js",
     "static/js/787.e7efb47e.chunk.js": "/DhillonAccountingCPA/static/js/787.e7efb47e.chunk.js",
     "static/media/about.jpg": "/DhillonAccountingCPA/static/media/about.1406b28103b1ee69bca9.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/DhillonAccountingCPA/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -14,12 +14,12 @@
     "static/media/dhilloncpa.jpeg": "/DhillonAccountingCPA/static/media/dhilloncpa.9c38f4f677dd98bef5ff.jpeg",
     "static/media/cpa.jpeg": "/DhillonAccountingCPA/static/media/cpa.812d4b10b34a5b407612.jpeg",
     "index.html": "/DhillonAccountingCPA/index.html",
-    "main.2cee8b6e.css.map": "/DhillonAccountingCPA/static/css/main.2cee8b6e.css.map",
-    "main.39e63878.js.map": "/DhillonAccountingCPA/static/js/main.39e63878.js.map",
+    "main.61d9eeb1.css.map": "/DhillonAccountingCPA/static/css/main.61d9eeb1.css.map",
+    "main.e0fb1dc3.js.map": "/DhillonAccountingCPA/static/js/main.e0fb1dc3.js.map",
     "787.e7efb47e.chunk.js.map": "/DhillonAccountingCPA/static/js/787.e7efb47e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cee8b6e.css",
-    "static/js/main.39e63878.js"
+    "static/css/main.61d9eeb1.css",
+    "static/js/main.e0fb1dc3.js"
   ]
 }
